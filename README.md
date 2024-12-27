@@ -13,7 +13,7 @@ A CSS project to practice CSS Grid. This project is a simple webpage with a maga
 
 ## Live Demo
 
-[Magazine](https://eddking-qs.github.io/CSS-Mini_Projects-Magazine/)
+[Magazine](https://quintin-dev.github.io/CSS-Mini_Projects-Magazine/)
 
 ## Disclaimer
 
